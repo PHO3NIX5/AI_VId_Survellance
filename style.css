@@ -1,0 +1,41 @@
+body{
+    background-size:cover ;
+}
+#heading{
+    margin-top: 0px;
+    padding: 10px ;
+    background-color: cyan;
+    color: blue;
+    margin-bottom: 20px;
+}
+h3{
+color: black;
+background-color: deepskyblue;
+display:  inline;
+margin-right: 50px;
+margin-left: 50px;
+margin-top: 20px;
+border-radius:5px ;
+padding: 10px;
+}
+button{
+     font-size: 20px !important;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow:  5px 5px 5px blue;
+}
+
+
+
